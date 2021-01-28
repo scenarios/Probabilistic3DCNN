@@ -1,4 +1,4 @@
-# Probabilistic3DCNN
+# Spatiotemporal Fusion in 3D CNNs: A Probabilistic View
 
 Experimental codes for the CVPR 2020 Oral Paper "Spatiotemporal Fusion in 3D CNNs: A Probabilistic View".
 
